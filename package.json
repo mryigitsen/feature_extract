@@ -1,0 +1,27 @@
+{
+  "name": "pklextract-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Yigit Sen <yigit@yigitsen.me> (https://www.yigitsen.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "json": "^11.0.0",
+    "jsonpickle": "^1.1.2",
+    "meyda": "^5.6.3",
+    "node-pickle": "^0.0.2",
+    "node-wav": "^0.0.2",
+    "pickle": "^0.2.0",
+    "pkl-to-json": "^2.1.0",
+    "wav": "^1.0.2",
+    "web-audio-api": "^0.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9"
+  }
+}
